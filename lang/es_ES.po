@@ -1,0 +1,671 @@
+# Copyright (C) 2023 pablozzz
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: myuniversaltheme 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/myuniversaltheme\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-08-02T09:03:24+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: myuniversaltheme\n"
+
+#. Theme Name of the theme
+msgid "myuniversaltheme"
+msgstr "myuniversaltheme"
+
+#. Description of the theme
+msgid "desc of my theme"
+msgstr "descripción de mi tema"
+
+#. Author of the theme
+msgid "pablozzz"
+msgstr "pablozzz"
+
+#. Author URI of the theme
+msgid "https://websitecreator.cba.pl/"
+msgstr "https://websitecreator.cba.pl/"
+
+#: 404.php:27
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Vaya. No se puede encontrar esa página&rsquo;."
+
+#: 404.php:32
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. Tal vez probar uno de los enlaces de abajo o una búsqueda?"
+
+#: category.php:24
+msgid "Sorry, there are no posts in this category"
+msgstr "Lo sentimos, no hay entradas en esta categoría"
+
+#: inc/admin/myuniversaltheme-welcome-screen.php:47
+msgid "My Universal Theme Welcome Page"
+msgstr "Página de bienvenida de My Universal Theme"
+
+#: inc/admin/myuniversaltheme-welcome-screen.php:48
+msgid "My Universal Theme "
+msgstr "Mi tema universal "
+
+#: inc/admin/myuniversaltheme-welcome-screen.php:83
+msgid "Thanks for choosing My Universal Theme!"
+msgstr "Gracias por elegir My Universal Theme."
+
+#: inc/admin/myuniversaltheme-welcome-screen.php:88
+msgid "Get started with My Universal Theme!"
+msgstr "Empiece con My Universal Theme"
+
+#: inc/admin/welcome.php:5
+#: inc/template-tags.php:116
+msgid "In this theme you can:"
+msgstr "En este tema puedes:"
+
+#: inc/admin/welcome.php:6
+#: inc/template-tags.php:117
+msgid "- print phone number"
+msgstr "- imprimir número de teléfono"
+
+#: inc/admin/welcome.php:7
+#: inc/template-tags.php:118
+msgid "- print opening time"
+msgstr "- imprimir hora de apertura"
+
+#: inc/admin/welcome.php:8
+#: inc/template-tags.php:119
+msgid "- edit pages with block theme support"
+msgstr "- editar páginas con soporte para temas en bloque"
+
+#: inc/admin/welcome.php:10
+#: inc/template-tags.php:120
+msgid "- create new themes!!"
+msgstr "- ¡¡crear nuevos temas!!"
+
+#: inc/admin/welcome.php:22
+msgid "Welcome to the %sMy Universal Theme%s  , enjoy it!!!"
+msgstr "¡¡¡Bienvenido a %sMy Universal Theme%s, que lo disfrutes!!!"
+
+#: inc/admin/welcome.php:24
+msgid "The theme contains many ways to configure."
+msgstr "El tema contiene muchas formas de configuración."
+
+#: inc/admin/welcome.php:29
+msgid "Configure menu location &nbsp<span class=\"dashicons dashicons-menu\"></span>"
+msgstr "Configurar la ubicación del menú &nbsp<span class=\"dashicons dashicons-menu\"></span>"
+
+#: inc/admin/welcome.php:31
+msgid ""
+"Configure your menu. The theme supports scrolling from the menu to selected segments on the front page.\n"
+"         To do this, go to the Menu in the Administration Panel,\n"
+"          choose your own links and paste - (http: // yourdomainname / #services) and add to the Menu."
+msgstr "Configure su menú. El tema soporta el desplazamiento desde el menú a los segmentos seleccionados en la página principal.<1d787586> </1d787586> Para ello, vaya al Menú en el Panel de Administración,<1d787586> </1d787586> elegir sus propios enlaces y pegar - (http: // yourdomainname / <fb8ec984> </fb8ec984>) y añadir al Menú."
+
+#: inc/admin/welcome.php:36
+msgid "Configure menus"
+msgstr "Configurar menús"
+
+#: inc/admin/welcome.php:41
+msgid "Set up your permalinks &nbsp <span class=\"dashicons dashicons-admin-site\"></span>"
+msgstr "Configure sus permalinks &nbsp <span class=\"dashicons dashicons-admin-site\"></span>"
+
+#: inc/admin/welcome.php:44
+msgid "Create %sCustom Links%s to this theme. Customized links simplify the readability of links and are more friendly seo."
+msgstr "Crear %sEnlaces personalizados%s a este tema. Los enlaces personalizados simplifican la legibilidad de los enlaces y son más amigables seo."
+
+#: inc/admin/welcome.php:48
+msgid " <a href=\"%1$s\" target=\"%2$s\" class=\"%3$s\">Open Permalink Settings</a>"
+msgstr " <a href=\"%1$s\" target=\"%2$s\" class=\"%3$s\">Abrir configuración de Permalink</a>"
+
+#: inc/admin/welcome.php:54
+msgid "Sell products through Woocommerce plugin &nbsp <span class=\"dashicons dashicons-cart\"></span>"
+msgstr "Vender productos a través de Woocommerce plugin &nbsp <span class=\"dashicons dashicons-cart\"></span>"
+
+#: inc/admin/welcome.php:57
+msgid "To sell products, download and install the Woocommerce plugin. It is necessary to pre-configure the plugin; create products, choose a template for a store, cart etc."
+msgstr "Para vender productos, descarga e instala el plugin Woocommerce. Es necesario preconfigurar el plugin; crear productos, elegir una plantilla para una tienda, carrito, etc."
+
+#: inc/admin/welcome.php:71
+msgid "Install recommended plugins"
+msgstr "Instalar los plugins recomendados"
+
+#: inc/admin/welcome.php:74
+msgid "Add to the subject plugins supporting take care of seo, security and inform users that you are using cookie in %sMy Universal Theme%s"
+msgstr "Añadir al tema plugins de apoyo a cuidar de seo, la seguridad e informar a los usuarios que está utilizando cookies en %sMi Tema Universal%s"
+
+#: inc/admin/welcome.php:82
+msgid "Install recommended plugins <span class=\"dashicons dashicons-admin-plugins\"></span>"
+msgstr "Instalar los plugins recomendados <span class=\"dashicons dashicons-admin-plugins\"></span>"
+
+#: inc/admin/welcome.php:84
+msgid "%sIncrease the functionality%s of your theme by applying extensions in the form of plugins. take care of seo, security on the network, cookie privacy policy and commercial selling- %sWoocommerce%s"
+msgstr "%sAumentar la funcionalidad%s de su tema mediante la aplicación de extensiones en forma de plugins. cuidar de seo, la seguridad en la red, la política de privacidad de cookies y la venta comercial- %sWoocommerce%s"
+
+#: inc/admin/welcome.php:91
+msgid "Install &amp; Activate Recommended Plugins"
+msgstr "Instale &amp; Active los plugins recomendados"
+
+#: inc/admin/welcome.php:101
+msgid "Read documentation"
+msgstr "Leer la documentación"
+
+#: inc/admin/welcome.php:104
+msgid "Other features"
+msgstr "Otras características"
+
+#: inc/admin/welcome.php:105
+msgid "- responsive ( Bootsrap 4 framework )"
+msgstr "- responsive ( Bootsrap 4 framework )"
+
+#: inc/admin/welcome.php:106
+msgid "- customizable ( Wp Customizer)"
+msgstr "- personalizable ( Wp Customizer)"
+
+#: inc/admin/welcome.php:107
+msgid "- translatable"
+msgstr "- traducible"
+
+#: inc/admin/welcome.php:108
+msgid "- supported e-shoping ( Woocommerce )"
+msgstr "- e-shoping soportado ( Woocommerce )"
+
+#: inc/admin/welcome.php:109
+msgid "- supported custom theme blocks"
+msgstr "- bloques temáticos personalizados compatibles"
+
+#. translators: %1$s: WordPress version. %2$s PHP version.
+#: inc/back-compat.php:17
+msgid "To use Block Themes feature you need WordPress version 6.0 .You can use classical mode of this theme. You are running WordPress version %1$s. Please upgrade and try again."
+msgstr "Para utilizar la función Block Themes necesita la versión WordPress 6.0 .Puede utilizar el modo clásico de este tema. Está ejecutando la versión de WordPress %1$s. Por favor, actualice e inténtelo de nuevo."
+
+#. translators: %s: post title
+#: inc/classic-templates/classic-comments.php:17
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un pensamiento sobre &ldquo;%s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: inc/classic-templates/classic-comments.php:22
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pensado en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reflexiones sobre &ldquo;%2$s&rdquo;"
+
+#: inc/classic-templates/classic-comments.php:37
+#: inc/classic-templates/classic-comments.php:56
+msgid "Comment navigation"
+msgstr "Comentarios navegación"
+
+#: inc/classic-templates/classic-comments.php:39
+#: inc/classic-templates/classic-comments.php:58
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: inc/classic-templates/classic-comments.php:41
+#: inc/classic-templates/classic-comments.php:60
+msgid "Newer Comments"
+msgstr "Nuevos comentarios"
+
+#: inc/classic-templates/classic-comments.php:70
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: inc/classic-templates/classic-comments.php:80
+msgid "Leave a Reply"
+msgstr "Dejar una respuesta"
+
+#: inc/classic-templates/classic-comments.php:82
+msgid "Leave a Reply to %s"
+msgstr "Deja una respuesta a %s"
+
+#: inc/classic-templates/classic-comments.php:84
+msgid "Cancel Reply"
+msgstr "Cancelar respuesta"
+
+#: inc/classic-templates/classic-comments.php:86
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: inc/classic-templates/classic-comments.php:92
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr "Puede utilizar estas etiquetas y atributos <abbr title=\"HyperText Markup Language\">HTML</abbr> :"
+
+#: inc/classic-templates/classic-footer.php:13
+msgid "Opening hours"
+msgstr "Horarios de apertura"
+
+#: inc/classic-templates/classic-footer.php:15
+msgid "Monday  "
+msgstr "Lunes  "
+
+#: inc/classic-templates/classic-footer.php:17
+msgid "Tuesday  "
+msgstr "Martes  "
+
+#: inc/classic-templates/classic-footer.php:19
+msgid "Wednesday  "
+msgstr "Miércoles  "
+
+#: inc/classic-templates/classic-footer.php:21
+msgid "Thursday  "
+msgstr "Jueves  "
+
+#: inc/classic-templates/classic-footer.php:23
+msgid "Friday  "
+msgstr "Viernes  "
+
+#: inc/classic-templates/classic-footer.php:25
+msgid "Saturday  "
+msgstr "Sábado  "
+
+#: inc/classic-templates/classic-footer.php:27
+msgid "Sunday  "
+msgstr "Domingo  "
+
+#: inc/classic-templates/classic-footer.php:33
+msgid "Social media"
+msgstr "Redes sociales"
+
+#: inc/classic-templates/classic-footer.php:38
+msgid "Sign in with Twitter"
+msgstr "Iniciar sesión con Twitter"
+
+#: inc/classic-templates/classic-footer.php:47
+msgid "Sign in with Facebook"
+msgstr "Iniciar sesión con Facebook"
+
+#: inc/classic-templates/classic-footer.php:55
+msgid "Sign in with Youtube"
+msgstr "Iniciar sesión con Youtube"
+
+#: inc/classic-templates/classic-footer.php:73
+msgid "Popular tags and categories"
+msgstr "Etiquetas y categorías populares"
+
+#: inc/classic-templates/classic-footer.php:138
+msgid "Log in"
+msgstr "Conectarse"
+
+#: inc/classic-templates/classic-footer.php:144
+msgid "Log out"
+msgstr "Cerrar sesión"
+
+#: inc/classic-templates/classic-footer.php:151
+msgid "Go to admin panel here"
+msgstr "Ir al panel de administración aquí"
+
+#: inc/classic-templates/classic-footer.php:159
+msgid "telephone number:   "
+msgstr "número de teléfono:   "
+
+#: inc/classic-templates/classic-header-woo.php:55
+msgid "Shop Page"
+msgstr "Página de la tienda"
+
+#: inc/classic-templates/classic-header-woo.php:57
+msgid "Checkout Page"
+msgstr "Página de pago"
+
+#: inc/classic-templates/classic-header-woo.php:59
+msgid "Cart Page"
+msgstr "Página del carro"
+
+#: inc/classic-templates/classic-header-woo.php:61
+msgid "Account Page"
+msgstr "Página de cuenta"
+
+#: inc/classic-templates/classic-header-woo.php:63
+msgid "Product Page"
+msgstr "Página del producto"
+
+#: inc/classic-templates/classic-header-woo.php:65
+msgid "Product Category Page"
+msgstr "Página de categorías de productos"
+
+#: inc/classic-templates/classic-header-woo.php:67
+msgid "Product Tag Page"
+msgstr "Página de etiquetas de productos"
+
+#: inc/classic-templates/classic-header.php:45
+msgid ""
+"Theres no menu, \r\n"
+"                                <a href=\"%1$s\" target=\"%2$s\">go to admin panel and create and activate menu</a>."
+msgstr "Theres no menú, \\r\\n <a href=\"%1$s\" target=\"%2$s\">ir al panel de administración y crear y activar el menú</a>."
+
+#: inc/customizer.php:31
+msgid "Header Banner"
+msgstr "Cabecera"
+
+#: inc/customizer.php:48
+msgid "Header and Menu Navbar Background Color"
+msgstr "Color de fondo de la cabecera y de la barra de navegación del menú"
+
+#: inc/customizer.php:49
+msgid "Applied to the header on small screens."
+msgstr "Se aplica a la cabecera en pantallas pequeñas."
+
+#: inc/customizer.php:60
+msgid "Other Customizations"
+msgstr "Otras personalizaciones"
+
+#: inc/customizer.php:61
+msgid "This is a section for the header banner Image."
+msgstr "Esta es una sección para la imagen del banner de cabecera."
+
+#: inc/customizer.php:68
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/customizer.php:69
+msgid "This is a section for Background Color."
+msgstr "Esta es una sección para el color de fondo."
+
+#: inc/customizer.php:77
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customizer.php:94
+msgid "Link Color"
+msgstr "Enlace Color"
+
+#: inc/customizer.php:120
+msgid "Opening Hours"
+msgstr "Horario de apertura"
+
+#: inc/customizer.php:121
+#: inc/customizer.php:306
+msgid "Set editable text for certain content."
+msgstr "Establecer texto editable para determinados contenidos."
+
+#: inc/customizer.php:126
+#: inc/customizer.php:140
+msgid "Monday"
+msgstr "Lunes"
+
+#: inc/customizer.php:132
+#: inc/customizer.php:157
+#: inc/customizer.php:182
+#: inc/customizer.php:207
+#: inc/customizer.php:233
+#: inc/customizer.php:258
+#: inc/customizer.php:284
+msgid "default text"
+msgstr "texto por defecto"
+
+#: inc/customizer.php:150
+#: inc/customizer.php:165
+msgid "Tuesday"
+msgstr "Martes"
+
+#: inc/customizer.php:175
+#: inc/customizer.php:190
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: inc/customizer.php:200
+#: inc/customizer.php:215
+msgid "Thursday"
+msgstr "Jueves"
+
+#: inc/customizer.php:226
+#: inc/customizer.php:241
+msgid "Friday"
+msgstr "Viernes"
+
+#: inc/customizer.php:251
+#: inc/customizer.php:266
+msgid "Saturday"
+msgstr "Sábado"
+
+#: inc/customizer.php:277
+#: inc/customizer.php:292
+msgid "Sunday"
+msgstr "Domingo"
+
+#: inc/customizer.php:305
+#: inc/customizer.php:311
+msgid "Telephone number"
+msgstr "Número de teléfono"
+
+#: inc/customizer.php:317
+msgid "000 000 000"
+msgstr "000 000 000"
+
+#: inc/customizer.php:325
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: inc/register-block-patterns.php:12
+msgid "My Universal Theme pattern cat"
+msgstr "Mi gato patrón de Tema Universal"
+
+#: inc/register-block-patterns.php:23
+msgid "Custom paragraph"
+msgstr "Párrafo personalizado"
+
+#: inc/register-block-patterns.php:24
+msgctxt "Block pattern description"
+msgid "Use custom paragraph - predefined"
+msgstr "Utilizar párrafo personalizado - predefinido"
+
+#: inc/register-block-styles.php:17
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/register-block-styles.php:29
+msgid "Post/Page Title"
+msgstr "Post/Título de la página"
+
+#: inc/register-block-styles.php:40
+msgid "Paragraph"
+msgstr "Párrafo"
+
+#: inc/register-block-styles.php:51
+msgid "Box Shadow"
+msgstr "Caja Sombra"
+
+#: inc/setup.php:59
+msgid "Primary Header Menu"
+msgstr "Menú principal"
+
+#: inc/setup.php:60
+msgid "Footer Menu"
+msgstr "Menú de pie de página"
+
+#: inc/template-tags.php:31
+msgid "<strong class=\"btn-lg fr-end-butt\">Answer </strong><i class=\"icon-share-alt\"></i>"
+msgstr "<strong class=\"btn-lg fr-end-butt\">Respuesta </strong><i class=\"icon-share-alt\"></i>"
+
+#: inc/template-tags.php:71
+msgid "To view this protected post, enter the password below:"
+msgstr "Para ver este post protegido, introduzca la contraseña a continuación:"
+
+#: inc/template-tags.php:73
+msgid "Password:"
+msgstr "Contraseña:"
+
+#: inc/template-tags.php:75
+msgid "Submit"
+msgstr "Enviar"
+
+#: inc/template-tags.php:115
+msgid "Welcome in My Universal Theme,enjoy it!!!"
+msgstr "Bienvenido a My Universal Theme,¡disfrútalo!"
+
+#: inc/template-tags.php:121
+msgid "- sell products(WC integrate)"
+msgstr "- vender productos(WC integrate)"
+
+#: inc/widgets.php:10
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/widgets.php:12
+#: inc/widgets.php:21
+#: inc/widgets.php:30
+#: inc/widgets.php:39
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: inc/widgets.php:19
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: inc/widgets.php:28
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: inc/widgets.php:37
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: inc/woocommerce.php:63
+msgid "Products display setup"
+msgstr "Configuración de la exposición de productos"
+
+#: inc/woocommerce.php:84
+msgid "Display products number per row"
+msgstr "Mostrar el número de productos por fila"
+
+#: inc/woocommerce.php:85
+msgid "Type max number of products to display per row "
+msgstr "Escriba el número máximo de productos a mostrar por fila "
+
+#: inc/woocommerce.php:89
+msgid "Max number of products per row"
+msgstr "Número máximo de productos por fila"
+
+#: inc/woocommerce.php:93
+msgid "Display products number per page"
+msgstr "Mostrar el número de productos por página"
+
+#: inc/woocommerce.php:94
+msgid "Type number of products to display per page "
+msgstr "Escriba el número de productos a mostrar por página "
+
+#: inc/woocommerce.php:98
+msgid "Number of products per page"
+msgstr "Número de productos por página"
+
+#: inc/woocommerce.php:143
+msgid "Go to Cart page"
+msgstr "Ir a la página del carrito"
+
+#: inc/woocommerce.php:149
+msgid "Go to Shop page"
+msgstr "Ir a la página Tienda"
+
+#. Template Name of the theme
+msgid "Blank without Container"
+msgstr "En blanco sin contenedor"
+
+#. Template Name of the theme
+msgid "Blank with Container"
+msgstr "En blanco con contenedor"
+
+#. Template Name of the theme
+msgid "First Page"
+msgstr "Primera página"
+
+#. Template Name of the theme
+msgid "Full Width"
+msgstr "Ancho total"
+
+#. Template Name of the theme
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: patterns/404.php:14
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr "404"
+
+#: patterns/404.php:22
+msgctxt "Message to convey that a webpage could not be found"
+msgid "This page could not be found."
+msgstr "No se ha podido encontrar esta página."
+
+#: patterns/404.php:26
+#: patterns/no-results.php:15
+msgctxt "label"
+msgid "Search"
+msgstr "Buscar en"
+
+#: patterns/404.php:27
+#: patterns/no-results.php:15
+msgctxt "placeholder for search field"
+msgid "Search..."
+msgstr "Buscar..."
+
+#: patterns/404.php:28
+#: patterns/no-results.php:15
+msgid "Search"
+msgstr "Buscar en"
+
+#: patterns/no-results.php:11
+msgid " pattern Sorry, but nothing matched your search terms."
+msgstr " patrón Lo sentimos, pero nada coincide con sus términos de búsqueda."
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar en &hellip;"
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar en"
+
+#: single.php:21
+msgid "Comments are disabled (for new posts )go to admin panel to change it(settings->discuss) <a href=\"%1$s\" target=\"%2$s\">enable comments please here</a>."
+msgstr "Los comentarios están desactivados (para los nuevos mensajes )ir al panel de administración para cambiarlo(settings->discuss) <a href=\"%1$s\" target=\"%2$s\">habilitar los comentarios por favor aquí</a>."
+
+#: tag.php:26
+msgid "Sorry, there are no posts in this tag"
+msgstr "Lo sentimos, no hay mensajes en esta etiqueta"
+
+#: template-parts/content-none.php:23
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/content-none.php:30
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primer post? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincide con sus términos de búsqueda. Inténtelo de nuevo con otras palabras clave."
+
+#: template-parts/content-none.php:39
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos&rsquo;encontrar lo que usted&rsquo;está buscando. Tal vez la búsqueda pueda ayudarle."
+
+#: template-parts/content-notitle.php:16
+#: template-parts/content-page.php:19
+#: template-parts/content.php:39
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:30
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: template-parts/content.php:34
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: woocommerce/checkout/form-checkout.php:48
+msgid "Your order"
+msgstr "Su pedido"

@@ -1,0 +1,31 @@
+/*.is-style-header {
+    display: block;
+    font-size: 3.5em;
+    margin: 0.67em 0;
+    font-weight: bold;
+    color: black;
+}
+ wszytsko dzila na edycji indywiduanuch postow i pagy nie dzula na block parts editor*/
+h1.is-style-post-page-title, h2.is-style-post-page-title {
+    display: block;
+    font-size: 2em;
+    margin: 0.70em 0;
+    color: grey;
+}
+
+
+p.is-style-paragraph {
+    display: block;
+    font-size: 1.0em;
+    margin: 0.40em 0;
+    color: darkgreen;
+}
+
+figure.is-style-image > img {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/*blockquote.is-style-primary-quote {
+    color: green;
+}*/
